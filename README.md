@@ -1,2 +1,2 @@
-# Formulario-com-PHP-MySQL-Login-Cadastro
- Formulário de Login e Cadastro com PHP e MySQL
+# Login de Clientes com PHP e MySQL
+ Formulário de Login com PHP e MySQL
